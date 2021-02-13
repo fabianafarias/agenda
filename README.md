@@ -1,3 +1,3 @@
-# agenda
+# Building an schedule with Django
 
-Construindo uma agenda com Django
+
